@@ -1,0 +1,23 @@
+.input{
+    font-size: larger;
+    position:fixed;
+    bottom:0px;
+    left: 0px;
+    width:90%;
+    height:40px;
+    outline-style: none;
+   }
+   
+   .btn{
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: larger;
+     position: fixed;
+     bottom:0px;
+     left:90%;
+     width: 10%;
+     height:48px;
+     border:#dd0426 ;
+     background-color: #dd0426;
+     color:white;
+   }
+   
