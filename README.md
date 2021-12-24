@@ -1,3 +1,4 @@
 
-1.Simple Application which includes color switches for messages
-2.Auto scroll to bottom of layout
+## Chat UI Animation
+
+Simple Chat Screen UI with some animation.
